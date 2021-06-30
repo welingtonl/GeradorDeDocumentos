@@ -1,0 +1,16 @@
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.exe
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.deps.json
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.runtimeconfig.json
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.runtimeconfig.dev.json
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.dll
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\ref\GeraDocs.dll
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\bin\Debug\net5.0\GeraDocs.pdb
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.csproj.AssemblyReference.cache
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.AssemblyInfoInputs.cache
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.AssemblyInfo.cs
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.csproj.CoreCompileInputs.cache
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.dll
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\ref\GeraDocs.dll
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.pdb
+D:\ProjetosDevOps\projTestes\NetCore\GeraDocs\GeraDocs\obj\Debug\net5.0\GeraDocs.genruntimeconfig.cache
